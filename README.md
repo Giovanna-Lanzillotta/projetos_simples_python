@@ -15,3 +15,6 @@ Aqui você encontra projetos usando python.
 
 ## GERADOR DE SENHAS ALEATÓRIAS
 - Gera senha aleatórias com caracteries maiúsculas,minúsculas,números e símbolos.
+
+## PEDRA PAPEL OU TESOURA
+> :construction: Projeto em construção :construction:
