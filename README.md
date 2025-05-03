@@ -17,4 +17,7 @@ Aqui você encontra projetos usando python.
 - Gera senha aleatórias com caracteries maiúsculas,minúsculas,números e símbolos.
 
 ## PEDRA PAPEL OU TESOURA
-> :construction: Projeto em construção :construction:
+- Jogo de pedra,papel pu tesoura onde o usuário escolhe o número de jogadas
+
+
+> :construction: mais projetos em construção :construction:
