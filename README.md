@@ -10,10 +10,10 @@ Aqui você encontra projetos usando python.
 ## Cara ou Coroa
 - Simulação de cara ou coroa usando random.
 
-# Cara_ou_coroa.py
+Cara_ou_coroa.py
 - Jogos simples com apenas uma partida.
-
-# Cara_ou_coroa_pontuacao.py
+  
+ Cara_ou_coroa_pontuacao.py
 - São cinco partidas e a cada acerto você ganha um ponto e no final e mostrado a sua pontuação final.
 
 ## CHATBOT MATEMÁTICA
