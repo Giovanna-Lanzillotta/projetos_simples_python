@@ -12,7 +12,9 @@ Aqui você encontra projetos usando python.
 
 Cara_ou_coroa.py
 - Jogos simples com apenas uma partida.
-  
+
+  ![cara_ou_coroa](https://github.com/user-attachments/assets/c59154ed-db93-4bc9-bf9a-803afc5661ef)
+
  Cara_ou_coroa_pontuacao.py
 - São cinco partidas e a cada acerto você ganha um ponto e no final e mostrado a sua pontuação final.
 
