@@ -10,10 +10,12 @@ Aqui você encontra projetos usando python.
 ## Cara ou Coroa
 - Simulação de cara ou coroa usando random.
 
-* Cara_ou_coroa.py
+Cara_ou_coroa.py
 - Jogos simples com apenas uma partida.
 
-* Cara_ou_coroa_pontuacao.py
+  ![cara_ou_coroa](https://github.com/user-attachments/assets/c59154ed-db93-4bc9-bf9a-803afc5661ef)
+
+ Cara_ou_coroa_pontuacao.py
 - São cinco partidas e a cada acerto você ganha um ponto e no final e mostrado a sua pontuação final.
 
 ## CHATBOT MATEMÁTICA
@@ -29,7 +31,7 @@ Aqui você encontra projetos usando python.
 - Gera senha aleatórias com caracteries maiúsculas,minúsculas,números e símbolos.
 
 ## PEDRA PAPEL OU TESOURA
-- Jogo de pedra,papel pu tesoura onde o usuário escolhe o número de jogadas
+- Jogo de pedra,papel ou tesoura onde o usuário escolhe o número de jogadas.
 
 
 > :construction: mais projetos em construção :construction:
