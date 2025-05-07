@@ -46,7 +46,7 @@ existe nele.
 ## PEDRA PAPEL OU TESOURA
 - Jogo de pedra,papel ou tesoura onde o usuário escolhe o número de jogadas.
 
-# VOTAÇÃO ELEIÇÃO
+## VOTAÇÃO ELEIÇÃO
 - Simulação de uma eleição com 3 candidatos onde os votos tambem podem ser brancos ou nulos.Primeiro se pede o número total de eleitores e em seguida o cpf de cada um deles,após
 todos votarem é exibido o resultado com o número de votos e sua porcentagem,podendo ter um vencedor ou um segundo turno apenas se não atingirem mais de 50% dos votos.
 
