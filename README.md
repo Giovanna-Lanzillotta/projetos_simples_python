@@ -3,6 +3,9 @@ Aqui você encontra projetos usando python.
 
 ## ADIVINHE O NÚMERO
 - Você terá que adivinha o número,o computador irá dar dicas de para mais e para menos,mas cuidado você tem tentativas limitadas.
+Abaixo a imagem de uma das possíveis saídas:
+
+![saida_jogo_adivinhacao](https://github.com/user-attachments/assets/4e8af48a-0836-4022-8691-909ab89c9a1f)
 
 ## CALCULADORA
 - Uma calculadora simples com adição,subtração,multiplicação e divisão.
