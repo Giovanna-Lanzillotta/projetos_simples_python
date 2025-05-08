@@ -1,4 +1,4 @@
-import random # random serve para gerar o 
+import random # random serve para gerar o número aleatório
 
 #intervalo dos números
 numero_minimo = 0
