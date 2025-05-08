@@ -4,7 +4,7 @@ import time
 # Pede ao usuário para escolher um número para comerçar a contagem regressiva
 contador = int(input("Digite um número para a contagem regressiva: "))
 
-# usando While, Enquanto o contador for maior que 10,ele faz a contagem com decremento
+# usando While, Enquanto o contador for maior que 0,ele faz a contagem com decremento
 while contador > 0:
     print(f"⏰ {contador}")
     contador -= 1
