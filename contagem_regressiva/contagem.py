@@ -1,7 +1,7 @@
 # importação da biblioteca time
 import time
 
-# Pede ao usuário para escolher um número para comerçar a contagem regressiva
+# Pede ao usuário para escolher um número para começar a contagem regressiva
 contador = int(input("Digite um número para a contagem regressiva: "))
 
 # usando While, Enquanto o contador for maior que 0,ele faz a contagem com decremento
