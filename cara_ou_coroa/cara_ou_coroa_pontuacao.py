@@ -9,7 +9,7 @@ for partida in range(5):
     jogada = random.choice(opcoes)
 
     if aposta == jogada:
-        print(f"🥳 Você ganhou! A jogada foi {jogada}")
+        print(f"😁 Você ganhou! A jogada foi {jogada}")
         ponto +=1
     else:
         print(f"😓 Você perdeu! A jogada foi {jogada}")

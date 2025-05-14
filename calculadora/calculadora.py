@@ -13,9 +13,9 @@ def calculadora():
         resultado = numero_um + numero_dois
         print(f'{numero_um} + {numero_dois} = {resultado}')
     
-    elif operacao == "*":
+    elif operacao == "-":
         resultado = numero_um * numero_dois
-        print(f'{numero_um} * {numero_dois} = {resultado}')
+        print(f'{numero_um} - {numero_dois} = {resultado}')
     
     elif operacao == "*":
         resultado = numero_um * numero_dois

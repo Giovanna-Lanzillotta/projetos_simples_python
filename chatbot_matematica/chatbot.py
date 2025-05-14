@@ -5,14 +5,14 @@ def iniciar_chatbot():
     while True:
         pergunta_usuario = input(f"{nome}: ") #o nome que você escolheu ficará aparecendo
         resposta_chatbot = opcoes(pergunta_usuario)
-        print("🤖 Chatbot:", resposta_chatbot)
+        print("🤖 Eureka:", resposta_chatbot)
         if "tchau" in pergunta_usuario.lower() or "adeus" in pergunta_usuario.lower():
             resposta_chatbot = print("😉 Adeus!Qualquer coisa é só me chamar novamente!")
             break
 
 # função de saudação, é uma mensagem de saudação,boas vindas para o usuário
 def saudacao():
-    return f"Olá eu sou o bot!Como eu posso te ajudar?😁"
+    return f"Olá eu sou o Eureka um bot de matemática!Como eu posso te ajudar?😁"
 
 # Função que o usuário pode fazer com o chatbot
 def opcoes(pergunta):
