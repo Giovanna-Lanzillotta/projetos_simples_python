@@ -10,7 +10,7 @@ Abaixo a imagem de uma das possíveis saídas:
 ## CALCULADORA
 - Uma calculadora simples com adição,subtração,multiplicação e divisão.
 
-## CARA OU COROA
+## 😐👑CARA OU COROA
 - Simulação de cara ou coroa usando random.
 
 Cara_ou_coroa.py
@@ -21,7 +21,7 @@ Cara_ou_coroa.py
  Cara_ou_coroa_pontuacao.py
 - São cinco partidas e a cada acerto você ganha um ponto e no final e mostrado a sua pontuação final.
 
-## CHATBOT MATEMÁTICA
+## 🤖CHATBOT MATEMÁTICA
 - Um chatbot simples que irá ajudar na parte da matemática.
 
 ## CONTAGEM REGRESSIVA
@@ -30,23 +30,23 @@ Cara_ou_coroa.py
 ## GERADOR DE NOMES DE PERSONAGENS
 - O usuário digite um nome que será o nome do meio e ele adiciona um antes e outros depois usando random.
 
-## GERADOR DE SENHAS ALEATÓRIAS
+## 🔑GERADOR DE SENHAS ALEATÓRIAS
 - Gera senha aleatórias com caracteries maiúsculas,minúsculas,números e símbolos.
 
-## MINI DICIONÁRIO
+## 📘 MINI DICIONÁRIO
 - O projeto é um dicionário de animais.O usuário vai digitar um nome de um animal,se ele existe dentro do dicionário ele vai dar uma definção senão vai dizer que ele não
 existe nele.
 
-## OLÁ MUNDO
+## 🗨 OLÁ MUNDO
 - Vai pergunta ao usuário o nome e em seguida apresentar uma mensagem dizendo bem vindo e o dia exato.
 
 ## PAR OU ÍMPAR
 - Projeto onde após o usuário digitar um número inteiro irá dizer se ele é par ou ímpar.
 
-## PEDRA PAPEL OU TESOURA
+## 👊🤚✌ PEDRA PAPEL OU TESOURA
 - Jogo de pedra,papel ou tesoura onde o usuário escolhe o número de jogadas.
 
-## VOTAÇÃO ELEIÇÃO
+## 🗳 VOTAÇÃO ELEIÇÃO
 - Simulação de uma eleição com 3 candidatos onde os votos tambem podem ser brancos ou nulos.Primeiro se pede o número total de eleitores e em seguida o cpf de cada um deles,após
 todos votarem é exibido o resultado com o número de votos e sua porcentagem,podendo ter um vencedor ou um segundo turno apenas se não atingirem mais de 50% dos votos.
 
